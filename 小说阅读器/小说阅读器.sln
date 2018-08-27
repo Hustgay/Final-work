@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小说阅读器", "WindowsFormsApp4\小说阅读器.csproj", "{9BD30F48-3282-4F23-830A-5470D63C9288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD30F48-3282-4F23-830A-5470D63C9288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD30F48-3282-4F23-830A-5470D63C9288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD30F48-3282-4F23-830A-5470D63C9288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD30F48-3282-4F23-830A-5470D63C9288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F425B0EB-4566-4D1A-97F8-E96F67D59C9B}
+	EndGlobalSection
+EndGlobal

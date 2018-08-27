@@ -1,0 +1,12 @@
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\IrisSkin4.dll
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\娱乐大厅.csprojAssemblyReference.cache
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\娱乐大厅.csproj.GenerateResource.cache
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\娱乐大厅.csproj.CoreCompileInputs.cache
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\娱乐大厅.csproj.CopyComplete
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\娱乐大厅.Form1.resources
+C:\Users\656031389\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\娱乐大厅.Properties.Resources.resources
